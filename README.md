@@ -1,5 +1,7 @@
 # EXPERIMENT-07-INTERFACING-CAMERA-MODULE-ON-EDGE-COMPUTER-FOR-OCCUPANCY-DETECTION-
-
+## Name: RAKSHITHA K
+## REG NO: 212223110039
+## DATE: 02.09.2026
 
 ### AIM:
 To interface a USB/CSI camera module with an edge computing platform (e.g., Raspberry Pi, Jetson Nano, etc.) and implement an occupancy detection system using the Histogram of Oriented Gradients (HOG) algorithm.
@@ -91,11 +93,13 @@ cv2.destroyAllWindows()
 
 ### SCREEN SHOTS OF OUTPUT 
 
+<img width="301" height="672" alt="image" src="https://github.com/user-attachments/assets/5da77fe0-2e6e-4bab-8fbd-c4af932752c6" />
 
 
 
 
 ### RASPI INTERFACE 
+<img width="317" height="523" alt="image" src="https://github.com/user-attachments/assets/12c27cb6-8fe0-4570-bc7b-63febccadd4e" />
 
 
 
